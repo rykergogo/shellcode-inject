@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "inject", "inject\inject.vcxproj", "{D5AB1E2E-2F48-44B7-9F55-1619F3B9193B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5AB1E2E-2F48-44B7-9F55-1619F3B9193B}.Debug|x64.ActiveCfg = Debug|x64
+		{D5AB1E2E-2F48-44B7-9F55-1619F3B9193B}.Debug|x64.Build.0 = Debug|x64
+		{D5AB1E2E-2F48-44B7-9F55-1619F3B9193B}.Debug|x86.ActiveCfg = Debug|Win32
+		{D5AB1E2E-2F48-44B7-9F55-1619F3B9193B}.Debug|x86.Build.0 = Debug|Win32
+		{D5AB1E2E-2F48-44B7-9F55-1619F3B9193B}.Release|x64.ActiveCfg = Release|x64
+		{D5AB1E2E-2F48-44B7-9F55-1619F3B9193B}.Release|x64.Build.0 = Release|x64
+		{D5AB1E2E-2F48-44B7-9F55-1619F3B9193B}.Release|x86.ActiveCfg = Release|Win32
+		{D5AB1E2E-2F48-44B7-9F55-1619F3B9193B}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8C2411F7-D6AB-4346-8787-01C4DF874920}
+	EndGlobalSection
+EndGlobal
